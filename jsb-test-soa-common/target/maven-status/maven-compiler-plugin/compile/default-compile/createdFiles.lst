@@ -1,0 +1,12 @@
+com\nongyi\www\po\UserExample$Criteria.class
+com\nongyi\www\vo\PageQuery.class
+com\nongyi\www\vo\UserCustomVo.class
+com\nongyi\www\po\UserExample$Criterion.class
+com\nongyi\www\po\User.class
+com\nongyi\www\service\BaseService.class
+com\nongyi\www\solrj\service\SolrjService.class
+com\nongyi\www\po\UserExample.class
+com\nongyi\www\pojo\UserCustom.class
+com\nongyi\www\service\BaseSereviceImpl.class
+com\nongyi\www\po\UserExample$GeneratedCriteria.class
+com\nongyi\www\service\UserService.class

@@ -1,0 +1,5 @@
+com\nongyi\main\ServiceStart.class
+com\nongyi\www\solrj\service\impl\SolrjServiceImpl.class
+com\nongyi\www\mapper\UserMapperCustom.class
+com\nongyi\www\service\impl\UserServiceImpl.class
+com\nongyi\www\mapper\UserMapper.class
